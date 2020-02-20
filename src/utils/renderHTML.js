@@ -28,10 +28,10 @@ const renderToHTML = (req, rootStore, routes, context) => {
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Zhoutao's Blog是一个个人博客网站，主要记载了我的生活，学习等相关内容。" />
+        <meta name="description" content="ztzztztt's blog是一个个人博客网站，主要记载了我的生活，学习等相关内容。" />
         <meta name="keywords" content="个人博客网站,生活,学习,交流" />
         <style>${cssStr}</style>
-        <title>首页 - Zhoutao's Blog</title>
+        <title>首页 - ztzztztt's blog</title>
     </head>
     <body>
         <div id="root">${AppStr}</div>

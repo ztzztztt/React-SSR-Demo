@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "vwesion": "0.1.0",
-  "description": "Zhoutao's Blog",
+  "description": "ztzztztt's blog",
   "license": "ISC",
   "dependencies": {
     "mobx": "^5.15.4",
